@@ -1,0 +1,64 @@
+.nav-wrapper {
+    background-color: rgba(177, 138, 214, 0.603);
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: rgba(214, 23, 23, 0.829);
+}
+
+.brand-logo {
+    font-family: 'Volkhov', serif;
+    size: 10px;
+
+}
+
+
+h3 {
+    font-family: 'Noto Serif', serif;
+    color: rgba(90, 50, 4, 0.938);
+}
+
+h5 {
+    font-family: 'Noto Serif', serif;
+    color: rgba(235, 25, 60, 0.918);
+}
+
+.header {
+    text-align: center;
+    direction: ltr;
+}
+
+.tip {
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.parallax-container {
+    min-height: 280px;
+    height: auto;
+}
+
+.heap {
+    size: 20px;
+}
+
+.ty {
+    color: rgb(245, 17, 17);
+}
+
+.text-light-5 {
+    size: 20px;
+}
+
+.footer-one {
+    background-color: rgb(225, 225, 231);
+}
+
+
+.wl {
+    color: orangered;
+}
+
+.cl {
+    color: rgba(10, 26, 59, 0.774);
+}
